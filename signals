@@ -1,0 +1,4 @@
+child signals done (but SIGQUIT core dumped still not printed)
+heredoc (signals done) (test cases echo before heredoc)
+null 
+signals main (done)
